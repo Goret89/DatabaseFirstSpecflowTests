@@ -1,0 +1,11 @@
+C:\Users\horetaiaea\source\repos\DatabaseFirstProject2\DatabaseFirstProject2.Database\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\horetaiaea\source\repos\DatabaseFirstProject2\DatabaseFirstProject2.Database\bin\Debug\netcoreapp3.1\DatabaseFirstProject2.Database.deps.json
+C:\Users\horetaiaea\source\repos\DatabaseFirstProject2\DatabaseFirstProject2.Database\bin\Debug\netcoreapp3.1\DatabaseFirstProject2.Database.runtimeconfig.json
+C:\Users\horetaiaea\source\repos\DatabaseFirstProject2\DatabaseFirstProject2.Database\bin\Debug\netcoreapp3.1\DatabaseFirstProject2.Database.runtimeconfig.dev.json
+C:\Users\horetaiaea\source\repos\DatabaseFirstProject2\DatabaseFirstProject2.Database\bin\Debug\netcoreapp3.1\DatabaseFirstProject2.Database.dll
+C:\Users\horetaiaea\source\repos\DatabaseFirstProject2\DatabaseFirstProject2.Database\bin\Debug\netcoreapp3.1\DatabaseFirstProject2.Database.pdb
+C:\Users\horetaiaea\source\repos\DatabaseFirstProject2\DatabaseFirstProject2.Database\obj\Debug\netcoreapp3.1\DatabaseFirstProject2.Database.AssemblyInfoInputs.cache
+C:\Users\horetaiaea\source\repos\DatabaseFirstProject2\DatabaseFirstProject2.Database\obj\Debug\netcoreapp3.1\DatabaseFirstProject2.Database.AssemblyInfo.cs
+C:\Users\horetaiaea\source\repos\DatabaseFirstProject2\DatabaseFirstProject2.Database\obj\Debug\netcoreapp3.1\DatabaseFirstProject2.Database.dll
+C:\Users\horetaiaea\source\repos\DatabaseFirstProject2\DatabaseFirstProject2.Database\obj\Debug\netcoreapp3.1\DatabaseFirstProject2.Database.pdb
+C:\Users\horetaiaea\source\repos\DatabaseFirstProject2\DatabaseFirstProject2.Database\obj\Debug\netcoreapp3.1\DatabaseFirstProject2.Database.csprojAssemblyReference.cache
